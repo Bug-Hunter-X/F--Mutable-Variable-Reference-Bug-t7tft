@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to mutable variables and references in F#.  The core issue lies in understanding how changes through references affect the original mutable variable. The `bug.fs` file contains the buggy code, while `bugSolution.fs` provides a corrected version and explanation.
